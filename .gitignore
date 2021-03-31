@@ -1,8 +1,8 @@
 # ignore c.o files
-c.o
+#c.o
 
 # ignore all .a files
-*.a
+#*.a
 
 # but do track lib.a, even though you;re ignoring .a files above
-!lib.a
+#!lib.a
